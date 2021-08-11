@@ -1,0 +1,57 @@
+{
+  "header": {
+    "welcome": "Welcome to <br/><mark>Moneer AlDakkak</mark>'s <br/>portfolio <br/>",
+    "me": "Who am I ?",
+    "gallery": "My Gallery",
+    "skills": "My Skills",
+    "services": "My Services"
+  },
+  "meSection": "My name is Moneer Al-Dakkak.<br/>I am 20 years old. <br />from Damascus, Syria.<br/>I study computer engineering and I am a Full stack web developer.<br/>Welcome to my portfolio &amp; I hope you like my work .",
+  "skillsSection": {
+    "general": [
+      "General skills",
+      "Fluent in English",
+      "Able to work with team",
+      "Creative",
+      "Content Writer",
+      "Patient",
+      "Accurate in work and deadlines"
+    ],
+    "frontend": [
+      "Frontend skills",
+      "Html",
+      "Css",
+      "Javascript",
+      "Sass",
+      "VueJs",
+      "Json"
+    ],
+    "backend": ["Backend skills", "NodeJs", "MongoDB"]
+  },
+  "servicesSection": [
+    "Clean Code",
+    "Design and Code from scratch",
+    "Responsive Design",
+    "Websites Editing",
+    ["Online Classes", "Click here to check out my online classes"]
+  ],
+  "gallerySection": [
+    "Take a look",
+    "This book was made by me for Html beginners. It's very organized and beginner friendly.",
+    "Project-Z is an educational project. It was made to teach front-end technologies.",
+    "This website's idea is to show the customer the houses in their country, which he chooses from an interactive europe map.",
+    "The 3rd version of my portfolio or personal website, which is the website you are in right now. Although it looks simple but it took long time to be designed and developed consedering every detail."
+  ],
+  "classes": {
+    "title": "",
+    "paragraph": "",
+    "form": {
+      "name": "what is your name ?",
+      "gender": ["male", "female"],
+      "place": "where do you live ?",
+      "study": "What is your studying field ?",
+      "job": "What is your current job ? (optional)",
+      "purpose": "Please tell me about your purpose for taking this course."
+    }
+  }
+}
